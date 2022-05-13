@@ -14,8 +14,37 @@ Para aperfeiçoar cada vez mais os meus conhecimentos em HTML e CSS realizarei a
 
 ## Features
 
-- [x] Aplicando HTML
-- [x] Aplicando CSS
+- [] Desafio 1
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+  
+- [] Desafio 2
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+
+
+- [] Desafio 3
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+
+
+- [] Desafio 4
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+
+
+- [] Desafio 5
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+
+
+- [] Desafio 6
+    - [] Aplicando HTML
+    - [] Aplicando CSS
+   
+- [] Desafio 7
+    - [] Aplicando HTML
+    - [] Aplicando CSS
 
 ## Stacks
 
