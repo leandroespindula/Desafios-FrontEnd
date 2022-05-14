@@ -1,0 +1,49 @@
+/* @https://fonts.google.com/specimen/Merriweather
+
+@https://fonts.google.com/specimen/Lato */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.container #lado-esquerdo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    height: 100%;
+    width: 50%;
+}
+
+.container #lado-direito {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    height: 100%;
+    width: 50%;
+}
+
+.container #lado-direito h1 {
+    border: 3px solid white;
+}
+
+.container #lado-esquerdo h1 {
+    border: 3px solid white;
+}
