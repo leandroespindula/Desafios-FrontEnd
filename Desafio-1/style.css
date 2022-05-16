@@ -17,11 +17,26 @@ body {
     color: #1A202C;
 }
 
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/*
+Lado esquerdo
+*/
 body section.esquerdo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 50vw;
-    height: 100%;
+    height: 100vh;
     background-image: url(./assets/img/wallpaper.png);
 }
+
+/*
+Lado direito
+*/
 
 body section.direito {
     display: flex;
@@ -45,24 +60,34 @@ section.direito div#login {
 
 }
 
-section.direito div#login h3{
-    /* margin-bottom: 11px; */
-}
-
 section.direito div#login input{
-    width: 350px;
+    width: 325px;
     height: 50px;
     border-radius: 5px;
+    padding-left: 20px ;
 }
 
 section.direito div#roda-pe {
     margin-left: 250px;
+    margin-bottom: 50px;
+}
+
+section.direito div#roda-pe #roda-pe-a {
+    color: #376cd7;
 }
 
 section.direito div#btn {
     display: flex;
     flex-direction: column;
     margin-left: 193px;
+    text-decoration: none;
+}
+
+section.direito div#btn img {
+    position: absolute;
+    margin-top: 78px;
+    margin-left: 57px;
+
 }
 
 section.direito div#btn #entrar {
@@ -88,6 +113,56 @@ section.direito div#btn #google {
 
 section.direito div#lembre__mim {
     display: flex;
-    gap: 85px;
+    align-items: center;
+    gap: 5px;
     margin-left: 193px;
+    margin-bottom: 26px;
+}
+
+section.direito div#lembre__mim a {
+    color: #376cd7;
+}
+
+section.direito div#lembre__mim #container__circulo{
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    margin-right: 64px;
+}
+
+section.direito div#lembre__mim #circulo {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #E8E8E8;
+}
+
+/*
+Responsividade
+*/
+
+@media screen and (max-width: 900px) {
+
+    body {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        width: 100vw;
+        max-width: 100%;
+        margin-left: -150px;
+        color: #1A202C;
+    }
+
+    body section.esquerdo {
+        display: none;
+    }
+
+    body section.direito {
+        width: 100vw;
+        height: 100vh;
+        color: #1A202C;
+    }
+
+    
+
 }
