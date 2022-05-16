@@ -14,7 +14,7 @@ Para aperfeiçoar cada vez mais os meus conhecimentos em HTML e CSS realizarei a
 
 ## Features
 
-- [] Desafio 1
+- [x] Desafio 1
     - [x] Aplicando HTML
     - [x] Aplicando CSS
   
