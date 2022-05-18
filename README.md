@@ -1,6 +1,6 @@
 ## Desafio de Front End
 
-<a href="https://github.com/leandroespindula/Desafios-FrontEnd/tree/main/Desafio-1](https://www.figma.com/file/v6eIaXiaeIllRuc6c6JDMY/Desafios---FrontEnd?node-id=2%3A1273)">Visualizar desafios no FIGMA<a/>
+<a href="https://www.figma.com/file/v6eIaXiaeIllRuc6c6JDMY/Desafios---FrontEnd?node-id=2%3A1273)">Visualizar desafios no FIGMA<a/>
 
 ## Observação
     
