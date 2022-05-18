@@ -1,8 +1,6 @@
 ## Desafio de Front End
 
-<!-- <p align="center">
-    <img width= 500 src="public/paraReadme/super-carros.gif"
-</p>   -->
+<a href="https://github.com/leandroespindula/Desafios-FrontEnd/tree/main/Desafio-1](https://www.figma.com/file/v6eIaXiaeIllRuc6c6JDMY/Desafios---FrontEnd?node-id=2%3A1273)">Visualizar desafios no FIGMA<a/>
 
 ## Observação
     
